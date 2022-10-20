@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 421fb8bcdf2bbb24fbc720abf6cd14fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fuegoDeArma: {instanceID: 0}
+  - SonDisparo: {instanceID: 0}
+  - SonSinBalas: {instanceID: 0}
+  - SonCartuchoEntra: {instanceID: 0}
+  - SonCartuchoSale: {instanceID: 0}
+  - SonVacio: {instanceID: 0}
+  - SonDesenfundar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
